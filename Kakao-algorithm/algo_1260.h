@@ -5,7 +5,6 @@
 #include "algo_common.h"
 #include <queue>
 #include <stack>
-#include "pch.h"
 
 /*!--- Functions ---!*/
 void solve_algo(void);

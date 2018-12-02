@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "algo_1260.h"
 
 using namespace std;
