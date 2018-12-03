@@ -2,17 +2,11 @@
 #ifndef _H_ALGO_1260_
 #define _H_ALGO_1260_
 
-#include "algo_common.h"
 #include <queue>
 #include <stack>
+#include <iostream>
+#include <string>
 
-/*!--- Functions ---!*/
-void solve_algo(void);
-
-/*!-----------------!*/
-
-/*!--- variables ---!*/
-
-/*!-----------------!*/
+using namespace std;
 
 #endif //_H_ALGO_1260_

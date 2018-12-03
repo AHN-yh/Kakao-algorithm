@@ -156,7 +156,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="algo_1260.cpp" />
-    <ClCompile Include="Kakao-algorithm.cpp" />
+    <ClCompile Include="kakao_news.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="kakao_dart.cpp" />
+    <ClCompile Include="kakao_secretMap.cpp" />
+    <ClCompile Include="kakao_4block.cpp" />
+    <ClCompile Include="traversal.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

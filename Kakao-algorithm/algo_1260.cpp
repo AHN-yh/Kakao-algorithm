@@ -1,4 +1,7 @@
-#include "algo_1260.h"
+#include <queue>
+#include <stack>
+#include <string>
+#include <iostream>
 
 using namespace std;
 
