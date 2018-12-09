@@ -161,6 +161,8 @@
     <ClCompile Include="kakao_dart.cpp" />
     <ClCompile Include="kakao_secretMap.cpp" />
     <ClCompile Include="kakao_4block.cpp" />
+    <ClCompile Include="makeOne.cpp" />
+    <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="traversal.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

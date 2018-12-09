@@ -44,5 +44,11 @@
     <ClCompile Include="traversal.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="makeOne.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
